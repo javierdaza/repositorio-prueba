@@ -4,4 +4,5 @@
 
 Este es el archivo README y me falto escribir este *texto.*
 
-Prueba Javier Daza
+Prueba Javier Daza 
+Semana 1.
