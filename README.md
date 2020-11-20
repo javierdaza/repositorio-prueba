@@ -4,4 +4,4 @@
 
 Este es el archivo README y me falto escribir este *texto.*
 
-Prueba Jorge Aguilar
+Prueba Javier Daza
